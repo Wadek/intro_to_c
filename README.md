@@ -20,12 +20,19 @@ a program to introduce the following concepts:
 
 <h3>circle_radius.c</h3>
 
-<ul>
-<li>Make use of scanf to read input from a user in the terminal, then print the input into the terminal.</li>
-<li></li>
-</ul>
+Make use of scanf to read input from a user in the terminal, then print the input into the terminal.
 
 <h4>Tasks</h4>
 <ul>
 <li></li>
+</ul>
+
+<h3>circle_area.c</h3>
+
+Calculate the area of a circle.
+
+<h4>Tasks</h4>
+<ul>
+<li>make use of a double</li>
+<li>using %f, we can be sure that our printed value is not truncated.</li>
 </ul>
