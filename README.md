@@ -11,7 +11,7 @@ a program to introduce the following concepts:
 <li>libraries - stdio.h contains the function Printf, so we don't need to write it.</li>
 </ul>
 
-### Tasks
+<h4>Tasks</h4>
 <ul>
 <li>Ensure you have gcc, vim, man pages installed</li>
 <li>Write, compile hello.c, using vim and gcc and run hello world</li>
@@ -22,5 +22,10 @@ a program to introduce the following concepts:
 
 <ul>
 <li>Make use of scanf to read input from a user in the terminal, then print the input into the terminal.</li>
+<li></li>
+</ul>
+
+<h4>Tasks</h4>
+<ul>
 <li></li>
 </ul>
