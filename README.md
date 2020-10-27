@@ -18,7 +18,7 @@ a program to introduce the following concepts:
 <li>Using Man pages, look up gcc, and vim.</li>
 </ul>
 
-<h3>circle_radius</h3>
+<h3>circle_radius.c</h3>
 
 <ul>
 <li>Make use of scanf to read input from a user in the terminal, then print the input into the terminal.</li>
